@@ -1,2 +1,8 @@
 # numbers-list
-This is a text file that contains number 
+This is a .md file that contains number 
+
+One 
+
+Two 
+
+Three 
